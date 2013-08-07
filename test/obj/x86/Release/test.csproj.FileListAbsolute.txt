@@ -1,0 +1,10 @@
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\bin\Release\test.exe
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\bin\Release\test.pdb
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\test.Form1.resources
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\test.Form2.resources
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\test.Properties.Resources.resources
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\test.exe
+C:\Users\Yasura\Documents\Visual Studio 2010\Projects\test\test\obj\x86\Release\test.pdb
